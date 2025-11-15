@@ -190,7 +190,7 @@ Navigate to: `http://localhost:5173/subscription`
 ### 2. Login (if not already logged in)
 
 Use demo credentials:
-- Email: `john.doe@example.com`
+- Email: `Venkatesh@example.com`
 - Password: `password`
 
 ### 3. Select a Plan

@@ -17,6 +17,9 @@ Screenshots!
 ![SignalAI-News](https://raw.githubusercontent.com/VenkateshLatchireddy/SignalAI-News/main/src/Assets/Home1.png)
 
 
+![SignalAI-News](https://raw.githubusercontent.com/VenkateshLatchireddy/SignalAI-News/main/src/Assets/Profile.png)
+
+
 ![SignalAI News](https://raw.githubusercontent.com/VenkateshLatchireddy/SignalAI-News/main/src/Assets/MyNews.png
 )
 

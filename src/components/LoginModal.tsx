@@ -311,7 +311,7 @@ const LoginModal: React.FC<LoginModalProps> = ({ isOpen, onClose }) => {
           {isLogin && (
             <div className="bg-gray-50 p-4 rounded-lg text-sm text-gray-600">
               <p className="font-medium mb-2">Demo Credentials:</p>
-              <p>Email: john.doe@example.com</p>
+              <p>Email: Venkatesh@example.com</p>
               <p>Password: password</p>
             </div>
           )}

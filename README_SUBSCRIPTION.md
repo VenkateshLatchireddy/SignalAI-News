@@ -113,7 +113,7 @@ npm run dev
 **Expiry:** Any future date
 
 ### Test Flow
-1. Login: `john.doe@example.com` / `password`
+1. Login: `Venkatesh@example.com` / `password`
 2. Click "Premium" button in header
 3. Select a plan
 4. Use test card above

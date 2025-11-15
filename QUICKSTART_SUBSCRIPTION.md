@@ -53,7 +53,7 @@ npm run dev
 
 1. Open browser: `http://localhost:5173`
 2. Login with demo account:
-   - Email: `john.doe@example.com`
+   - Email: `Venkatesh@example.com`
    - Password: `password`
 3. Click **Premium** button in header (between language selector and date)
 4. Choose a plan (Premium or Pro)

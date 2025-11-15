@@ -107,9 +107,9 @@ const AuthContext = createContext<AuthContextType | undefined>(undefined);
 const mockUsers: User[] = [
   {
     id: '1',
-    email: 'john.doe@example.com',
-    username: 'johndoe',
-    fullName: 'John Doe',
+    email: 'Venkatesh@example.com',
+    username: 'Venkatesh',
+    fullName: 'Venkatesh ',
     userType: 'journalist',
     isVerified: true,
     avatar: 'https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=100',
@@ -123,9 +123,9 @@ const mockUsers: User[] = [
     specializations: ['Politics', 'Social Issues', 'Investigative Reporting'],
     credentials: ['Reuters Institute Fellowship', 'Pulitzer Prize Nominee'],
     socialLinks: {
-      twitter: '@johndoe_news',
-      linkedin: 'john-doe-journalist',
-      website: 'johndoe.news'
+      twitter: '@Venkatesh_news',
+      linkedin: 'Venkatesh-journalist',
+      website: 'Venkatesh.news'
     }
   },
   {

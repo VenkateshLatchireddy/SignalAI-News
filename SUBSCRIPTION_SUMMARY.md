@@ -311,7 +311,7 @@ Health check endpoint.
 
 1. Start backend: `cd server && npm start`
 2. Start frontend: `npm run dev`
-3. Login: `john.doe@example.com` / `password`
+3. Login: `Venkatesh@example.com` / `password`
 4. Go to `/subscription`
 5. Select Premium Monthly (₹199)
 6. Use test card: `4111 1111 1111 1111`

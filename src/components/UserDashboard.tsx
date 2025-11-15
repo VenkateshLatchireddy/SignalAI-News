@@ -96,7 +96,7 @@ const UserDashboard: React.FC = () => {
             </div>
             <div>
               <p className="font-medium text-gray-900">New appointment request</p>
-              <p className="text-sm text-gray-600">John Doe wants to schedule a consultation</p>
+              <p className="text-sm text-gray-600">Venkatesh wants to schedule a consultation</p>
             </div>
           </div>
         </div>
