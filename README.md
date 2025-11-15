@@ -11,6 +11,7 @@ Supports major Indian languages:
 Hindi, Telugu, Tamil, Kannada, Malayalam, Marathi, Bengali, Gujarati, Odia, and English.
 
 Screenshots!
+
 ![SignalAI-News](https://raw.githubusercontent.com/VenkateshLatchireddy/SignalAI-News/main/src/Assets/Home.png)
 
 
