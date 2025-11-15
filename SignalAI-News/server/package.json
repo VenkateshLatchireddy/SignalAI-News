@@ -1,0 +1,28 @@
+{
+  "name": "SignalAI-payment-server",
+  "version": "1.0.0",
+  "description": "Razorpay payment server for SignalAI News",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "razorpay",
+    "payment",
+    "subscription"
+  ],
+  "author": "SignalAI Studio",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "razorpay": "^2.9.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
